@@ -15,7 +15,7 @@ const projects = [
     title: "Portfolio",
     img: portfolio,
     description: "Front-End Portfolio Dashboard – A responsive and interactive portfolio dashboard built with React, Tailwind CSS, and Framer Motion. It showcases personal projects, skills, awards, and achievements with animated transitions. The dashboard integrates dynamic components, such as a carousel for awards, animated skill badges, and project cards with links to live deployed projects. The UI is optimized for both desktop and mobile, providing a smooth and engaging experience.",
-    link: "https://project-two.netlify.app",
+    link: "https://aasthasingh07.github.io/portfolio",
   },
   {
     title: "AutoDev IQ",
